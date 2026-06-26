@@ -1,4 +1,3 @@
-```markdown
 # 📚 Prompts in the Wild: A Large Analyzed Collection of Transactional Prompts in Code
 
 A large-scale collection of real-world transactional prompts extracted from GitHub repositories, accompanied by a comprehensive ontology, rich structural and semantic annotations, and an interactive browser for systematic exploration.
@@ -100,6 +99,3 @@ A complete description of the ontology is available in the paper.
 ## Acknowledgments
 
 Work on this project was supported by a VATAT grant from the Planning and Budgeting Committee of the Council for Higher Education in Israel, Kamin grant by the Israel Innovation Authority (IIA) and ISF grant number 670/23.
-
-```
-```

@@ -4,7 +4,7 @@ A large-scale collection of real-world transactional prompts extracted from GitH
 
 This repository accompanies the paper:
 
-[**Prompts in the Wild: A Large Analyzed Collection of Transactional Prompts in Code**]((https://github.com/OnlpLab/transactionalPromptsCollection/blob/main/paper/TransactionalPromptCollection.pdf))
+[**Prompts in the Wild: A Large Analyzed Collection of Transactional Prompts in Code**](https://github.com/OnlpLab/transactionalPromptsCollection/blob/main/paper/TransactionalPromptCollection.pdf)
 
 *Proceedings of the 20th Linguistic Annotation Workshop (LAW XX), ACL 2026*
 

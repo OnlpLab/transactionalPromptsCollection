@@ -17,7 +17,9 @@ This repository accompanies the paper:
 
 🌐 **Interactive Browser:** [Explore the collection](https://onlplab.github.io/transactionalPromptsCollection/app/)
 
-📦 **Dataset:** *(Coming soon)*
+📦 **Dataset:**
+- [Download deduplicated version](https://github.com/OnlpLab/transactionalPromptsCollection/releases/download/v1.0.0/transactional_prompts_collection_deduped.zip)
+- [Download full version](https://github.com/OnlpLab/transactionalPromptsCollection/releases/download/v1.0.0/transactional_prompts_collection_full.zip)
 
 ---
 
@@ -94,7 +96,9 @@ A complete description of the ontology is available in the paper.
 <img src="images/ontology.png" width="850">
 </p>
 
+## Citations
 
+📄 **Citations:** coming soon.
 
 ## Acknowledgments
 
